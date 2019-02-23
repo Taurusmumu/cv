@@ -4,9 +4,10 @@ title: HUI CHEN
 email: c0922h@gmail.com
 homepage:
     url: https://363687847.github.io/
-    text: cs.cmu.edu/~woden
+    text: 281-854-8199
 ---
-# Wode __Ni__
+# HUI CHEN
+
 
 <!--
 include contact information from the front matter
