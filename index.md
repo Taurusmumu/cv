@@ -3,7 +3,7 @@ layout: cv
 title: HUI CHEN
 email: c0922h@gmail.com
 homepage:
-    url: https://363687847.github.io/
+    url: https://363687847.github.io/cv/
     text: 281-854-8199
 ---
 # HUI CHEN
