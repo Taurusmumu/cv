@@ -20,7 +20,7 @@ Supported arguments:
 
 ## Education
 
-### __University of Houston__ `2018.9 -`
+### __University of Houston__ `2014.8 - Present`
 ```
 Houston, TX
 ```
