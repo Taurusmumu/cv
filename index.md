@@ -20,18 +20,18 @@ Supported arguments:
 
 ## Education
 
-### __University of Houston__ `Fall 2014 - Present`
+### __University of Houston__ `Present`
 ```
 Houston, TX
 ```
 - Bachelor in Computer Science
 - Minor in Mathmatics
 
-## PLACEHOLDER
+## AHOY
 
-TDB `HOUSTON, 2019` <br>
+AHOY MINOY `*_*` <br>
 
-## PLACEHOLDER2
+## AYEE YIKES
 ```
 AHOY MINOY
 ```
