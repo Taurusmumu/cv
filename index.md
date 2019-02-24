@@ -4,7 +4,7 @@ title: HUI CHEN
 email: c0922h@gmail.com
 homepage:
     url: https://363687847.github.io/cv/
-    text: 281-854-8199
+    text: xxx-xxx-xxxx
 ---
 # HUI CHEN
 
@@ -20,7 +20,7 @@ Supported arguments:
 
 ## Education
 
-### __University of Houston__ `2014.8 - Present`
+### __University of Houston__ `Fall 2014 - Present`
 ```
 Houston, TX
 ```
