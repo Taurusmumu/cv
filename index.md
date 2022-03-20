@@ -49,7 +49,7 @@ jQuery, Express, Webpack, Docker, Kubernetes, Microservices, Prometheus, Jira, A
 
 ## PUBLICATION
 
-- https://conf.researchr.org/profile/ase-2021/jiamuwang
+- (https://conf.researchr.org/profile/ase-2021/jiamuwang)[https://conf.researchr.org/profile/ase-2021/jiamuwang]
 
 
 ## PROFESSIONAL EXPERIENCE
