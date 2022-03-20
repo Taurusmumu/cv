@@ -37,7 +37,7 @@ Bachelor of Science in Electronics Science and Technology
 
 - Mandarin - Native Speaker
 - English - Fluent talking and reading (TOEFL 102) 
-- Korean - Fluent talking and reading (TOPIK 5) <br>
+- Korean - Fluent talking and reading (TOPIK 5) 
 
 
 ## SKILLS
@@ -67,7 +67,7 @@ July 2018 – July 2020
 ```
 __Root Cause Analysis (RCA) System__
 
-- Since eBay structure is based on microservice architecture that has over 3k clusters running on the **Kubernetes** platform, to help TDO team figure out the root cause of any failure triggered by supervisor system and reduce man-check time, I took part in developing an automated RCA system, written in **Python Flask** framework, capable of handling 300+ QPS in benchmark.
+- EBay structure is based on microservice architecture that has over 5k clusters running on **Kubernetes**. To help TDO team figure out the RC of any failure triggered by supervisor system and reduce man-check time, I took part in developing an automated RCA system, written in **Flask**, capable of handling 300+ QPS in benchmark.
 - (Front-End) Developed dashboard Microservice, written in **TypeScript** along with **React**, **Recoil** and **Antd**, bundled by **Webpack**, consuming data from label-collect-validate flow in system to represent data report by using **Echart**.
 - (Back-End) Developed data source Microservice, written in Java Spring, able to fetch data from multiple databases (e.g., **Prometheus** and Click house), and trigger alert on **Slack** in a format of Jfreechart and Puppeteer Snapshot.
 - (Back-End) Optimized backend data with algorithms such as FFT and Pearson to denoise and categorize metrics.
