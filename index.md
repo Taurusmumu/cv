@@ -2,7 +2,7 @@
 layout: cv
 title: Jiamu Wang
 email: taurusmumu@gmail.com
-phone: 13007073792
+phone: 
 homepage:
     url: https://taurusmumu.wordpress.com/
     text: Blog
@@ -47,13 +47,6 @@ Bachelor of Science in Electronics Science and Technology
 jQuery, Express, Webpack, Docker, Kubernetes, Microservices, Prometheus, Jira, AWS
 
 
-## LANGUAGE PROFICIENCY AND CERTIFICATES
-
-- Mandarin - Native Speaker
-- English - Fluent talking and reading (TOEFL 102) 
-- Korean - Fluent talking and reading (TOPIK 5) <br>
-
-
 ## PUBLICATION
 
 - https://conf.researchr.org/profile/ase-2021/jiamuwang
@@ -85,13 +78,6 @@ __Stock Search Web App / IOS App__
 - (Web) Accomplished server-side scripts on **NodeJS**, able to request real-time data (JSON) from Alpha Vantage API.
 - (IOS) Built server-side in Swift MVC and used Alamofire library to request data from public API.
 - Built responsive user interface on **Bootstrap** Framework, implemented it to cross client-side interface.
-
-__Data RESTful APIs & Microservices for Air Sensor Tracking System in Java Spring__
-- Designed and implemented RESTful API to publish & monitor air quality data from sensors in Java, Spring Boot, Spring Cloud, capable of handling 3000+ QPS in the benchmark.
-- Developed Dashboard Microservice in JavaScript, Spring Boot, WebSocket, STOMP to display real-time air data.
-- Built Data Ingestion Microservice to validate, preprocess data, and publish to RabbitMQ as data broker for decoupling.
-- Adopted Docker for configuration, deployment, scaling to improve development productivity.
-- Utilized **Eureka** to monitor the system and improve the stability of Tracking Service.
 
 
 
